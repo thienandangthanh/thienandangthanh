@@ -27,7 +27,10 @@
 [<img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />][ArchLinux]
 [<img align="left" alt="Autodesk EAGLE" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" />][EAGLE]
 [<img align="left" alt="Autodesk Fusion 360" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLR41GG19WDEXCUQiHM3seqC6td75PjcVWAIECwyzA=s900-c-k-c0x00ffffff-no-rj" />][Fusion]
+<<<<<<< HEAD
 <br />
+=======
+>>>>>>> d98659a5bf042411b551b7d47621a6a72724ea48
 
 ### ⚡ GitHub Stats
 
