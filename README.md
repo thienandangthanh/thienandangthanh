@@ -11,12 +11,11 @@
 
 ### Connect with me
 
-[<img align="left" alt="thienandangthanh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="thienandangthanh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="thienandangthanh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="thienandangthanh | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="thienandangthanh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="thienandangthanh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[🌏][website]
+[<img align="left" alt="thienandangthanh | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" />][facebook]
+[<img align="left" alt="thienandangthanh | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
+[<img align="left" alt="thienandangthanh | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />][twitter]
+[<img align="left" alt="thienandangthanh | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 <br />
 
@@ -31,7 +30,6 @@
 [<img align="left" alt="Autodesk EAGLE" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" />][EAGLE]
 [<img align="left" alt="Autodesk Fusion 360" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLR41GG19WDEXCUQiHM3seqC6td75PjcVWAIECwyzA=s900-c-k-c0x00ffffff-no-rj" />][Fusion]
 
-<br />
 <br />
 
 ---
