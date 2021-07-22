@@ -32,12 +32,10 @@
 
 <br />
 
----
-  <summary>⚡ GitHub Stats</summary>
-  <img align="center" alt="thienandangthanh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienandangthanh&hide=html,css&layout=compact" />
+### ⚡ GitHub Stats
+<img align="center" alt="thienandangthanh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienandangthanh&hide=html,css&layout=compact" />
 <br />
-<br />
-  <img align="center" alt="thienandangthanh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thienandangthanh&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="thienandangthanh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thienandangthanh&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://www.thienandangthanh.com
 [twitter]: https://twitter.com/TADT1909
