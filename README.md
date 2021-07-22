@@ -17,8 +17,6 @@
 [<img align="left" alt="thienandangthanh | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />][twitter]
 [<img align="left" alt="thienandangthanh | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
-<br />
-
 ### Tools
 
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vimTopic]
@@ -30,7 +28,9 @@
 [<img align="left" alt="Autodesk EAGLE" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" />][EAGLE]
 [<img align="left" alt="Autodesk Fusion 360" width="26px" src="https://yt3.ggpht.com/ytc/AKedOLR41GG19WDEXCUQiHM3seqC6td75PjcVWAIECwyzA=s900-c-k-c0x00ffffff-no-rj" />][Fusion]
 <br />
+
 ### ⚡ GitHub Stats
+
 <img align="center" alt="thienandangthanh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienandangthanh&hide=html,css&layout=compact" />
 <img align="center" alt="thienandangthanh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thienandangthanh&show_icons=true&hide_border=true&count_private=true" />
 
