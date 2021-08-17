@@ -34,6 +34,17 @@
 <img align="center" alt="thienandangthanh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienandangthanh&hide=html,css&layout=compact" />
 <img align="center" alt="thienandangthanh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thienandangthanh&show_icons=true&hide_border=true&count_private=true" />
 
+### Donation
+<img align="center" src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="XMR logo" height="100"/>
+<img align="center" src="images/XMR-QR.png" alt="XMR Grams address" height="200"/>
+
+`841EXgaecjRZ59C6i4qjmsUMrjjuBdsy9dEWcutJueYFRxGbxJydSYDfHf8QK342FUCu4eQ97oAqUNtN73YNLzC79AMbthy`
+
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_open_network_logo.svg/1200px-The_open_network_logo.svg.png" alt="TON logo" height="100"/>
+<img align="center" src="images/TON-QR.png" alt="TON Grams address" height="200"/>
+
+`EQBl9QHMmLtmjBjZ4xGPHnq12HRjxNoMmgHtu1Q0AqQKdn3t`
+
 [website]: https://www.thienandangthanh.com
 [twitter]: https://twitter.com/TADT1909
 [linkedin]: https://linkedin.com/in/thienandangthanh
