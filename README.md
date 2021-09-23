@@ -35,6 +35,10 @@
 <img align="center" alt="thienandangthanh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thienandangthanh&show_icons=true&hide_border=true&count_private=true" />
 
 ### Donation
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/480px-BTC_Logo.svg.png" alt="BTC logo" height="100"/>
+<img align="center" src="images/BTC-QR.png" alt="BTC address" height="200"/>
+
+`bc1q66svp6g02aj9ykvp943gtscg6yyqu83ewdc84d`
 <img align="center" src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="XMR logo" height="100"/>
 <img align="center" src="images/XMR-QR.png" alt="XMR Grams address" height="200"/>
 
