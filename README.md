@@ -39,6 +39,7 @@
 <img align="center" src="images/BTC-QR.png" alt="BTC address" height="200"/>
 
 `bc1q66svp6g02aj9ykvp943gtscg6yyqu83ewdc84d`
+
 <img align="center" src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="XMR logo" height="100"/>
 <img align="center" src="images/XMR-QR.png" alt="XMR Grams address" height="200"/>
 
