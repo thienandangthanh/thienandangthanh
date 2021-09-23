@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=thienandangthanh.com&style=for-the-badge&url=https%3A%2F%2Fthienandangthanh.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/TADT1909?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthienandangthanh&screen_name=TADT1909)
 
-## I'm a IoT engineer and an open-source enthusiast!!
+## I'm an IoT engineer and an open-source enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other open-source engineers
