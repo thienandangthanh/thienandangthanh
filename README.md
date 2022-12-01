@@ -3,19 +3,18 @@
 [![Website](https://img.shields.io/website?label=thienandangthanh.com&style=for-the-badge&url=https%3A%2F%2Fthienandangthanh.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/TADT1909?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthienandangthanh&screen_name=TADT1909)
 
-## I'm an IoT engineer and an open-source enthusiast!!
+## A fullstack IoT engineer and an open-source enthusiast
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently focusing on backend and IoT development
 - 👯 I’m looking to collaborate with other open-source engineers
-- 🥅 2021 Goals: Contribute more to embedded open-source projects
 
 ### Connect with me
 
-[🌏][website]
-[<img align="left" alt="thienandangthanh | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" />][facebook]
-[<img align="left" alt="thienandangthanh | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
-[<img align="left" alt="thienandangthanh | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />][twitter]
-[<img align="left" alt="thienandangthanh | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img align="left" alt="thienandangthanh | Facebook" width="22px" src="https://user-images.githubusercontent.com/24854119/205093613-dd6438b0-2dcc-48c8-9ea0-faecf92a7a2c.png" />][facebook]
+[<img align="left" alt="thienandangthanh | Telegram" width="22px" src="https://user-images.githubusercontent.com/24854119/205093468-8dd9abc1-614f-4705-8852-889679db32f0.svg" />][telegram]
+[<img align="left" alt="thienandangthanh | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/24854119/205092948-d6d033c9-5d87-4fd1-b195-ccdd3058981d.svg" />][linkedin]
+[<img align="left" alt="thienandangthanh | Twitter" width="22px" src="https://user-images.githubusercontent.com/24854119/205098536-0ae75726-3336-4b14-87d5-dc3f6732c0f5.svg" />][twitter]
+<br/>
 
 ### Tools
 
@@ -33,22 +32,6 @@
 
 <img align="center" alt="thienandangthanh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienandangthanh&hide=html,css&layout=compact" />
 <img align="center" alt="thienandangthanh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thienandangthanh&show_icons=true&hide_border=true&count_private=true" />
-
-### Donation
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/480px-BTC_Logo.svg.png" alt="BTC logo" height="100"/>
-<img align="center" src="images/BTC-QR.png" alt="BTC address" height="200"/>
-
-`bc1q66svp6g02aj9ykvp943gtscg6yyqu83ewdc84d`
-
-<img align="center" src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="XMR logo" height="100"/>
-<img align="center" src="images/XMR-QR.png" alt="XMR Grams address" height="200"/>
-
-`841EXgaecjRZ59C6i4qjmsUMrjjuBdsy9dEWcutJueYFRxGbxJydSYDfHf8QK342FUCu4eQ97oAqUNtN73YNLzC79AMbthy`
-
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_open_network_logo.svg/1200px-The_open_network_logo.svg.png" alt="TON logo" height="100"/>
-<img align="center" src="images/TON-QR.png" alt="TON Grams address" height="200"/>
-
-`EQBl9QHMmLtmjBjZ4xGPHnq12HRjxNoMmgHtu1Q0AqQKdn3t`
 
 [website]: https://www.thienandangthanh.com
 [twitter]: https://twitter.com/TADT1909
